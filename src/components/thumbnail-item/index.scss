@@ -2,17 +2,22 @@
 
 .thumbnail {
   display: block;
-  margin-bottom: 12px;
-  padding: 4px;
-  padding-bottom: 12px;
+  margin: 30px 0px;
+  padding: 0 20px 0 20px;
   box-shadow: none;
   transition: text-shadow 0.3s, opacity 0.4s;
   opacity: 0;
+  border: 1px solid #6a84f8;
+  border-radius: 10px;
 
   p {
     font-size: 90%;
     line-height: 1.4;
   }
+}
+
+.thumbnail:hover {
+  border: 1px solid #733cf5;
 }
 
 .thumbnail.visible {
