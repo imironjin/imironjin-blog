@@ -5,7 +5,7 @@ category: '#etc'
 draft: false
 ---
 
-![gatsby](./images/make-blog/gatsby.jpg)
+![gatsby](./images/why-made-blog/gatsby.jpg)
 
 ## 블로그를 만든 이유
 
